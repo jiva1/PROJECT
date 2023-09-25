@@ -1,0 +1,40 @@
+.imagss img {
+
+  object-fit: cover;
+  width: 100%;
+}
+
+.text-co {
+  display: flex;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 50px;
+  text-align: start;
+  padding: 10rem;
+
+}
+.greens
+{
+  background-color: #f2f2f2;
+}
+.texts
+{
+  display: flex;
+  flex-direction: column;
+}
+footer{
+  background-color: #424746;
+  display: flex;
+  justify-content: center;
+  /* border: 2px solid red; */
+  text-align: center;
+  height: 50px;
+}
+footer h6
+{
+  margin-top: 22px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
